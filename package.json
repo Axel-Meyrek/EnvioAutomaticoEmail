@@ -1,0 +1,15 @@
+{
+  "name": "envio-automatico-email",
+  "version": "1.0.0",
+  "description": "Envio de correo electronicos de forma automatica con personalizacion de mensajes para google sheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AppScript",
+    "AxelMeyrek"
+  ],
+  "author": "Axel Meyrek",
+  "license": "ISC"
+}
